@@ -1,0 +1,10 @@
+{
+  "name": "twa-ficha01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "module": "node app.js",
+    "api": "node api.js"
+  }
+}

@@ -1,0 +1,38 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #1f2937;
+  background: #f8fafc;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+  margin: 0;
+  place-items: center;
+}
+
+main {
+  width: min(32rem, calc(100% - 3rem));
+  padding: 2rem;
+  text-align: center;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 3rem rgb(15 23 42 / 12%);
+}
+
+output {
+  display: block;
+  margin: 1rem 0;
+  font-size: clamp(4rem, 20vw, 8rem);
+  font-weight: 700;
+}
+
+button {
+  padding: .7rem 1rem;
+  color: white;
+  font: inherit;
+  background: #2563eb;
+  border: 0;
+  border-radius: .5rem;
+  cursor: pointer;
+}
