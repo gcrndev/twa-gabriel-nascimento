@@ -27,4 +27,4 @@ npm run dev
 
 ## Declaração de IA generativa
 
-Foi usada IA generativa (OpenAI Codex) para apoiar a criação da estrutura inicial, explicação dos requisitos e revisão do código. O código foi revisto e executado localmente pelo aluno.
+Foi usada IA generativa (OpenAI Codex) para apoiar a criação da estrutura inicial, explicação dos requisitos e validação técnica local.
